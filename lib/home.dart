@@ -27,7 +27,7 @@ class _HomeState extends State<Home> {
         ),
         actions: [
           Badge(
-            backgroundColor: const Color.fromARGB(255, 245, 189, 189),
+            backgroundColor: const Color.fromARGB(255, 255, 222, 222),
             label: Text(
               "HELP",
               style: TextStyle(fontSize: 4, color: Colors.red),
