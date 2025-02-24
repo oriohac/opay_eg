@@ -1,0 +1,2 @@
+/media/oriohac/Chike/Examples/opay_eg/android/app/.cxx/Debug/r38574o2/arm64-v8a/CMakeFiles/edit_cache.dir
+/media/oriohac/Chike/Examples/opay_eg/android/app/.cxx/Debug/r38574o2/arm64-v8a/CMakeFiles/rebuild_cache.dir
